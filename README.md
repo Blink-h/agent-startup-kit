@@ -1,7 +1,5 @@
 # agent-startup-kit
 
-![repo homepage preview](./%E6%88%AA%E5%B1%8F2026-04-17%2004.29.16.png)
-
 AI coding workflows and reusable skills for shipping SaaS fast.
 
 Stop rebuilding the same auth, billing, landing, and deployment flows from scratch.
